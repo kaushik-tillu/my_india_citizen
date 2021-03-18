@@ -1,4 +1,11 @@
-# My India - Smart India 🚩
+## About Project and Developer 💻
+
+My India - smart India is a final year project. Designed and Developed by Kaushik (Dhruv Tillu).
+For More Support Mail on developer.kaushik21@gmail.com
+Linked In :- https://www.linkedin.com/in/dhruv-tillu-7b337b1b5
+
+
+## My India - Smart India 🚩
 
 In smart and digital India, My India is a unique mobile app that includes all basic complains features of a citizen-centric app.
 Citizens can post complaints in My India app using GPS technology.
@@ -32,26 +39,26 @@ Also reduce problems/issues regarding Mahanagar Palika.
 Flutter, Firebase, Cloud Firestore, Geolocation, Google Maps API!
 
 ## Packages Used in My India Smart Report System 📲
-  cupertino_icons: ^1.0.0
-  splashscreen: ^1.2.0
-  firebase_auth: ^0.18.4+1
-  firebase_database: ^4.4.0
-  auto_size_text: ^2.1.0
-  cloud_firestore: ^0.14.4
-  google_maps_flutter: ^0.5.25+2
-  google_maps_webservice: ^0.0.14
-  location: ^2.3.5
-  geoflutterfire: ^2.1.0
-  geolocator: ^5.3.0
-  geocoder: ^0.2.1
-  permission: ^0.1.7
-  fluttertoast: ^3.1.3
-  email_validator: ^1.0.0
-  flutter_spinkit: ^4.1.2+1
-  expansion_tile_card: ^1.0.3
-  url_launcher: ^5.5.0
-  image_picker: ^0.6.0
-  firebase_storage: ^5.2.0
-  firebase_core: ^0.5.3
-  pull_to_refresh: ^1.6.3
-  date_format: ^1.0.9
+  1. cupertino_icons: ^1.0.0
+  2. splashscreen: ^1.2.0
+  3. firebase_auth: ^0.18.4+1
+  4. firebase_database: ^4.4.0
+  5. auto_size_text: ^2.1.0
+  6. cloud_firestore: ^0.14.4
+  7. google_maps_flutter: ^0.5.25+2
+  8. google_maps_webservice: ^0.0.14
+  9. location: ^2.3.5
+  10. geoflutterfire: ^2.1.0
+  11. geolocator: ^5.3.0
+  12. geocoder: ^0.2.1
+  13. permission: ^0.1.7
+  14. fluttertoast: ^3.1.3
+  15. email_validator: ^1.0.0
+  16. flutter_spinkit: ^4.1.2+1
+  17. expansion_tile_card: ^1.0.3
+  18. url_launcher: ^5.5.0
+  19. image_picker: ^0.6.0
+  20. firebase_storage: ^5.2.0
+  21. firebase_core: ^0.5.3
+  22. pull_to_refresh: ^1.6.3
+  23. date_format: ^1.0.9
