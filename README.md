@@ -55,8 +55,3 @@ Flutter, Firebase, Cloud Firestore, Geolocation, Google Maps API!
   firebase_core: ^0.5.3
   pull_to_refresh: ^1.6.3
   date_format: ^1.0.9
-
-  ## Project Credit 🙏
-
-  Mainly Project Credit goes to Yashraut from Github(https://yashraut.codes/)
-  Project idea of My India - Smart India taken from Yashraut.# My-India-Smart-India
