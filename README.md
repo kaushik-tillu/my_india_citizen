@@ -4,6 +4,12 @@ My India - smart India is a final year project. Designed and Developed by Kaushi
 For More Support Mail on developer.kaushik21@gmail.com
 Linked In :- https://www.linkedin.com/in/dhruv-tillu-7b337b1b5
 
+Municipal Account ID & Password:-
+Email ID:- myindia.admin@gmail.com
+And Password:- Kaushik2103
+#NOTE:- Municipal Account cannot generates from App.
+Individual User can create account. But, Municipal Account cannot created from App.
+
 
 ## My India - Smart India 🚩
 
